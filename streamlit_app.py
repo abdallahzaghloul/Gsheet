@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_gsheets
 import os.path
 
 from google.auth.transport.requests import Request
