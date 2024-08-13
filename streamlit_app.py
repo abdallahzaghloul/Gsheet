@@ -9,6 +9,6 @@ from streamlit_gsheets import GSheetsConnection
 #from googleapiclient.errors import HttpError
 
 # Create a connection object.
-conn = st.connection("gsheets", type=GSheetsConnection)
+#conn = st.connection("gsheets", type=GSheetsConnection)
 
 #df = conn.read()
