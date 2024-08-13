@@ -3,3 +3,4 @@ pandas
 google-auth ==2.33.0 
 
 
+st-gsheets-connection
